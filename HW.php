@@ -1,3 +1,2 @@
 <?hh
-echo '<p>Hello World</p>';
-?>
+echo 'Hello World';
