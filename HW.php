@@ -1,6 +1,3 @@
 <?hh
-{
-  function helloworld(bool $x): bool
-  return !$x;
-
-}
+echo '<p>Hello World</p>';
+?>
