@@ -1,2 +1,2 @@
 <?php
-echo "hello world\n";
+echo "Hack language\n";
