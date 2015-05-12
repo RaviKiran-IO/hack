@@ -1,9 +1,4 @@
 <?hh
-class MyClass {
-  const int MyConst = 0;
-  private string $x = '';
-  public function increment(int $x): int {
-    $y = $x + 1;
-    return $y;
-  }
-}
+echo "hello world\n";
+$a = 1234; // decimal number
+echo $a;
